@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.AssemblyInfo.cs
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.exe
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.deps.json
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.runtimeconfig.json
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.dll
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.pdb
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.dll
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\refint\TemperatureConverter.dll
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.pdb
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.genruntimeconfig.cache
+C:\Users\kevin\Documents\cSharp\Visual Studio\Temperature\TemperatureConverter\obj\Debug\net7.0\ref\TemperatureConverter.dll
